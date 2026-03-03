@@ -1,0 +1,1 @@
+export type Skill = { name:string; xpCurve:(lvl:number)=>number; };
